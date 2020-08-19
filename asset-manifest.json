@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-app.git/static/css/main.270d3189.chunk.css",
+    "main.js": "/react-app.git/static/js/main.20dbd082.chunk.js",
+    "main.js.map": "/react-app.git/static/js/main.20dbd082.chunk.js.map",
+    "runtime-main.js": "/react-app.git/static/js/runtime-main.265a73d2.js",
+    "runtime-main.js.map": "/react-app.git/static/js/runtime-main.265a73d2.js.map",
+    "static/js/2.44fcf2f7.chunk.js": "/react-app.git/static/js/2.44fcf2f7.chunk.js",
+    "static/js/2.44fcf2f7.chunk.js.map": "/react-app.git/static/js/2.44fcf2f7.chunk.js.map",
+    "index.html": "/react-app.git/index.html",
+    "precache-manifest.58ff5f30d643b72090216601d70e0981.js": "/react-app.git/precache-manifest.58ff5f30d643b72090216601d70e0981.js",
+    "service-worker.js": "/react-app.git/service-worker.js",
+    "static/css/main.270d3189.chunk.css.map": "/react-app.git/static/css/main.270d3189.chunk.css.map",
+    "static/js/2.44fcf2f7.chunk.js.LICENSE.txt": "/react-app.git/static/js/2.44fcf2f7.chunk.js.LICENSE.txt",
+    "static/js/main.20dbd082.chunk.js.LICENSE.txt": "/react-app.git/static/js/main.20dbd082.chunk.js.LICENSE.txt",
+    "static/media/argon-react-white.png": "/react-app.git/static/media/argon-react-white.275a2629.png",
+    "static/media/argon-react.png": "/react-app.git/static/media/argon-react.f38ddea9.png",
+    "static/media/creativetim-white-slim.png": "/react-app.git/static/media/creativetim-white-slim.f7cb2d39.png",
+    "static/media/font-awesome.min.css": "/react-app.git/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/react-app.git/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/react-app.git/static/media/google.87be59a1.svg",
+    "static/media/ill-2.svg": "/react-app.git/static/media/ill-2.594b1ee1.svg",
+    "static/media/img-1-1200x1000.jpg": "/react-app.git/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/img-2-1200x1000.jpg": "/react-app.git/static/media/img-2-1200x1000.ba449a06.jpg",
+    "static/media/landing.jpg": "/react-app.git/static/media/landing.0ec26478.jpg",
+    "static/media/nucleo.css": "/react-app.git/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile.jpg": "/react-app.git/static/media/profile.278a0d25.jpg",
+    "static/media/promo-1.png": "/react-app.git/static/media/promo-1.75f7ab18.png",
+    "static/media/team-1-800x800.jpg": "/react-app.git/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/react-app.git/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/react-app.git/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/react-app.git/static/media/team-4-800x800.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.265a73d2.js",
+    "static/js/2.44fcf2f7.chunk.js",
+    "static/css/main.270d3189.chunk.css",
+    "static/js/main.20dbd082.chunk.js"
+  ]
+}
